@@ -1,0 +1,8 @@
+###
+POST http://localhost:8080/message
+Content-Type: application/json
+
+{
+  "name": "test message",
+  "message": "Hello Rabbit MQ"
+}
